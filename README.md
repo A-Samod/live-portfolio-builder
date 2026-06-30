@@ -1,6 +1,6 @@
 # Live Portfolio Builder
 
-![Live Portfolio Builder Preview](screenshot.png)
+![Live Portfolio Builder Preview](/assets/live-portfolio-builder.png)
 
 **[View Live Demo →](your-link-here)**
 
