@@ -2,7 +2,7 @@
 
 ![Live Portfolio Builder Preview](/assets/live-portfolio-builder.png)
 
-**[View Live Demo →](https://a-samod.github.io/live-portfolio-builder/){:target="_blank" rel="noopener noreferrer"}**
+**<a href="https://a-samod.github.io/live-portfolio-builder/" target="_blank" rel="noopener noreferrer">View Live Demo →</a>**
 
 A polished, professional portfolio website — ready to launch without building one from scratch. Showcase your work, skills, and story in a modern, visually compelling format that makes a strong first impression.
 
